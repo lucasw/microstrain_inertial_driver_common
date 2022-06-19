@@ -1,0 +1,3 @@
+[submodule "MSCL"]
+	path = MSCL
+	url = git@github.com:LORD-MicroStrain/MSCL.git
